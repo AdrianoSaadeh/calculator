@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "LoEJa57yTj8nXqsBen+9fvj4yM1eqyqcULBoiH2s97Okn252P2Ddr9gSUnS+DRgQDfIO8TJWJlAAOtoG7cewgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pichau\\source\\repos\\WCCalculator\\RestSharpDemo\\RestSharpDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pichau\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\cucumber.messages\\6.0.1\\cucumber.messages.6.0.1.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\dynamitey\\2.0.9.136\\dynamitey.2.0.9.136.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\gherkin\\19.0.3\\gherkin.19.0.3.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\google.protobuf\\3.7.0\\google.protobuf.3.7.0.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\restsharp\\106.12.0\\restsharp.106.12.0.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\specflow\\3.9.22\\specflow.3.9.22.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\specflow.assist.dynamic\\1.4.2\\specflow.assist.dynamic.1.4.2.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\specflow.internal.json\\1.0.8\\specflow.internal.json.1.0.8.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\system.valuetuple\\4.4.0\\system.valuetuple.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

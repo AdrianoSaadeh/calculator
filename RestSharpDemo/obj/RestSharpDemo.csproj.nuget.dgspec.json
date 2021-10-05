@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Pichau\\source\\repos\\WCCalculator\\RestSharpDemo\\RestSharpDemo.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Pichau\\source\\repos\\WCCalculator\\RestSharpDemo\\RestSharpDemo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pichau\\source\\repos\\WCCalculator\\RestSharpDemo\\RestSharpDemo.csproj",
+        "projectName": "RestSharpDemo",
+        "projectPath": "C:\\Users\\Pichau\\source\\repos\\WCCalculator\\RestSharpDemo\\RestSharpDemo.csproj",
+        "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pichau\\source\\repos\\WCCalculator\\RestSharpDemo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "targetAlias": "net461",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "targetAlias": "net461",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.12.0, )"
+            },
+            "SpecFlow": {
+              "target": "Package",
+              "version": "[3.9.22, )"
+            },
+            "SpecFlow.Assist.Dynamic": {
+              "target": "Package",
+              "version": "[1.4.2, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
